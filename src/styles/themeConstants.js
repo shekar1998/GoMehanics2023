@@ -1,0 +1,6 @@
+export default {
+    PRIMARY_COLOR:"#4bb377",
+    BACKGROUND_COLOR_LIGHT: '#ffffff',
+    MAIN_TEXT_COLOR:"#646564",
+    VALUE_TEXT_COLOR:"#505150"
+}
